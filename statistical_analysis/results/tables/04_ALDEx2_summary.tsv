@@ -1,0 +1,5 @@
+level	comparison	n_features	n_sig_wi.eBH	n_sig_up_target	n_sig_up_ref	n_sig_we.eBH	n_abs_effect_ge_1	n_sig_and_abs_effect_ge_1	target	ref
+MAG	BES_vs_OC	276	0	0	0	1	38	0	BES	OC
+MAG	electrode_vs_tube	276	134	75	59	126	171	134	electrode	tube
+genus	BES_vs_OC	186	0	0	0	1	25	0	BES	OC
+genus	electrode_vs_tube	186	89	50	39	83	120	89	electrode	tube

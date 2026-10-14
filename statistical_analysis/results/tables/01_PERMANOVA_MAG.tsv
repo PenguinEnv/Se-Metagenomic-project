@@ -1,0 +1,6 @@
+level	distance	data	term	Df	SumOfSqs	R2	F	p_value	sig
+MAG	Bray-Curtis	CoverM relative abundance (%)	condition	1	0.3899	0.1436	3.488	0.0138	*
+MAG	Bray-Curtis	CoverM relative abundance (%)	location	1	1.088	0.4005	9.729	1e-04	***
+MAG	Bray-Curtis	CoverM relative abundance (%)	condition:location	1	0.3436	0.1265	3.074	0.0255	*
+MAG	Bray-Curtis	CoverM relative abundance (%)	Residual	8	0.8943	0.3294			
+MAG	Bray-Curtis	CoverM relative abundance (%)	Total	11	2.715	1			

@@ -1,0 +1,7 @@
+level	distance	factor	mean_distance_to_centroid	F	p_value
+MAG	Bray-Curtis	condition	OC=0.442; BES=0.435	0.03542	0.8558
+MAG	Bray-Curtis	location	electrode=0.354; tube=0.362	0.01387	0.9164
+MAG	Bray-Curtis	group	OC_electrode=0.198; BES_electrode=0.317; OC_tube=0.277; BES_tube=0.261	0.7289	0.5518
+genus	Bray-Curtis	condition	OC=0.432; BES=0.418	0.1272	0.7008
+genus	Bray-Curtis	location	electrode=0.326; tube=0.318	0.01519	0.9011
+genus	Bray-Curtis	group	OC_electrode=0.183; BES_electrode=0.288; OC_tube=0.239; BES_tube=0.212	0.515	0.6708

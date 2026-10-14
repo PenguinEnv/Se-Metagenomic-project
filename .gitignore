@@ -1,0 +1,6 @@
+# Raw input data (per-sample MAG quantification) is not committed to this public repo; add it manually if needed
+statistical_analysis/data/*.tsv
+# Per-sample abundance/count matrices (same information as the raw data) are excluded too
+statistical_analysis/results/matrices/
+.Rhistory
+.RData

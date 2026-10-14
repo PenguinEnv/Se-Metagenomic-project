@@ -1,0 +1,9 @@
+level	test	n	R2	F	p_value
+MAG	BES vs OC within electrode	6	0.456	3.353	0.1
+MAG	BES vs OC within tube	6	0.4452	3.209	0.1
+MAG	electrode vs tube within OC	6	0.6814	8.556	0.1
+MAG	electrode vs tube within BES	6	0.5469	4.828	0.1
+genus	BES vs OC within electrode	6	0.4662	3.494	0.1
+genus	BES vs OC within tube	6	0.4692	3.536	0.1
+genus	electrode vs tube within OC	6	0.7267	10.64	0.1
+genus	electrode vs tube within BES	6	0.6259	6.693	0.1

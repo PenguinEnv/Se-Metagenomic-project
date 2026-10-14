@@ -1,0 +1,31 @@
+level	distance	data	term	Df	SumOfSqs	R2	F	p_value	sig
+MAG	Bray-Curtis	CoverM relative abundance (%)	condition	1	0.3899	0.1436	3.488	0.0138	*
+MAG	Bray-Curtis	CoverM relative abundance (%)	location	1	1.088	0.4005	9.729	1e-04	***
+MAG	Bray-Curtis	CoverM relative abundance (%)	condition:location	1	0.3436	0.1265	3.074	0.0255	*
+MAG	Bray-Curtis	CoverM relative abundance (%)	Residual	8	0.8943	0.3294			
+MAG	Bray-Curtis	CoverM relative abundance (%)	Total	11	2.715	1			
+MAG	Bray-Curtis	relative abundance re-closed to mapped MAGs = 100%	condition	1	0.3898	0.1441	3.505	0.0128	*
+MAG	Bray-Curtis	relative abundance re-closed to mapped MAGs = 100%	location	1	1.081	0.3996	9.72	1e-04	***
+MAG	Bray-Curtis	relative abundance re-closed to mapped MAGs = 100%	condition:location	1	0.3448	0.1274	3.1	0.0241	*
+MAG	Bray-Curtis	relative abundance re-closed to mapped MAGs = 100%	Residual	8	0.8897	0.3289			
+MAG	Bray-Curtis	relative abundance re-closed to mapped MAGs = 100%	Total	11	2.705	1			
+MAG	Aitchison	CLR(read count + 1)	condition	1	547.6	0.1481	5.774	0.0023	**
+MAG	Aitchison	CLR(read count + 1)	location	1	2157	0.5834	22.74	1e-04	***
+MAG	Aitchison	CLR(read count + 1)	condition:location	1	233.6	0.06318	2.462	0.0814	.
+MAG	Aitchison	CLR(read count + 1)	Residual	8	758.8	0.2053			
+MAG	Aitchison	CLR(read count + 1)	Total	11	3697	1			
+genus	Bray-Curtis	CoverM relative abundance (%)	condition	1	0.2857	0.1156	3.248	0.0345	*
+genus	Bray-Curtis	CoverM relative abundance (%)	location	1	1.149	0.465	13.06	1e-04	***
+genus	Bray-Curtis	CoverM relative abundance (%)	condition:location	1	0.3324	0.1346	3.779	0.0202	*
+genus	Bray-Curtis	CoverM relative abundance (%)	Residual	8	0.7037	0.2848			
+genus	Bray-Curtis	CoverM relative abundance (%)	Total	11	2.471	1			
+genus	Bray-Curtis	relative abundance re-closed to mapped MAGs = 100%	condition	1	0.2883	0.1172	3.302	0.0339	*
+genus	Bray-Curtis	relative abundance re-closed to mapped MAGs = 100%	location	1	1.14	0.4634	13.06	1e-04	***
+genus	Bray-Curtis	relative abundance re-closed to mapped MAGs = 100%	condition:location	1	0.3337	0.1356	3.822	0.0194	*
+genus	Bray-Curtis	relative abundance re-closed to mapped MAGs = 100%	Residual	8	0.6983	0.2838			
+genus	Bray-Curtis	relative abundance re-closed to mapped MAGs = 100%	Total	11	2.46	1			
+genus	Aitchison	CLR(read count + 1)	condition	1	348.1	0.1449	5.771	0.0023	**
+genus	Aitchison	CLR(read count + 1)	location	1	1428	0.5945	23.68	1e-04	***
+genus	Aitchison	CLR(read count + 1)	condition:location	1	143.6	0.05978	2.381	0.0818	.
+genus	Aitchison	CLR(read count + 1)	Residual	8	482.5	0.2008			
+genus	Aitchison	CLR(read count + 1)	Total	11	2403	1			

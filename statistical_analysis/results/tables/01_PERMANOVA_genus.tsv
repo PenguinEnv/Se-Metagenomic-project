@@ -1,0 +1,6 @@
+level	distance	data	term	Df	SumOfSqs	R2	F	p_value	sig
+genus	Bray-Curtis	CoverM relative abundance (%)	condition	1	0.2857	0.1156	3.248	0.0345	*
+genus	Bray-Curtis	CoverM relative abundance (%)	location	1	1.149	0.465	13.06	1e-04	***
+genus	Bray-Curtis	CoverM relative abundance (%)	condition:location	1	0.3324	0.1346	3.779	0.0202	*
+genus	Bray-Curtis	CoverM relative abundance (%)	Residual	8	0.7037	0.2848			
+genus	Bray-Curtis	CoverM relative abundance (%)	Total	11	2.471	1			

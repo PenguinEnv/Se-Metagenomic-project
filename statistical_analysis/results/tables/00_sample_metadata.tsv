@@ -1,0 +1,13 @@
+sample	condition	location	replicate	group	MAG_relabund_total_pct	unmapped_pct	MAG_read_count_total
+OCBF01	OC	electrode	01	OC_electrode	78.29	21.71	43291920
+OCBF02	OC	electrode	02	OC_electrode	76.22	23.78	40954880
+OCBF03	OC	electrode	03	OC_electrode	76.93	23.07	40306910
+OCTB01	OC	tube	01	OC_tube	86.34	13.66	58838422
+OCTB02	OC	tube	02	OC_tube	86.5	13.5	42238991
+OCTB03	OC	tube	03	OC_tube	82.27	17.73	32809232
+BESBF01	BES	electrode	01	BES_electrode	83.62	16.38	42454067
+BESBF02	BES	electrode	02	BES_electrode	86.52	13.48	37802611
+BESBF03	BES	electrode	03	BES_electrode	78.28	21.72	42464472
+BESTB01	BES	tube	01	BES_tube	89.29	10.71	67613081
+BESTB02	BES	tube	02	BES_tube	87.24	12.76	49491788
+BESTB03	BES	tube	03	BES_tube	85.69	14.31	31404681
